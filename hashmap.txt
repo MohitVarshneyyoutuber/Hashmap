@@ -33,7 +33,7 @@ public class mohit {
 	Set<Map.Entry<Character,Integer>>hmap=map.entrySet();
 	for(Map.Entry<Character,Integer>data:hmap)
 	{
-		 System.out.println(data.getKey());
+		hh System.out.println(data.getKey());
 		 System.out.println(data.getValue());	 
 	}
 		
